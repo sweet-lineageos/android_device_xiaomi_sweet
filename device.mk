@@ -136,6 +136,7 @@ TARGET_USES_MKE2FS := true
 # Properties
 -include $(LOCAL_PATH)/product_prop.mk
 -include $(LOCAL_PATH)/system_prop.mk
+-include $(LOCAL_PATH)/system_ext.mk
 PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE := true
 
 # Soong namespaces
