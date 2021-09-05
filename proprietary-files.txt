@@ -1,9 +1,5 @@
 # All unpinned blobs are extracted from Redmi/sweet_eea/sweet:11/RKQ1.200826.002/V12.5.7.0.RKFEUXM:user/release-keys
 
-# Bluetooth (aptX)
-system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
-system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
-
 # CNE
 system_ext/framework/com.quicinc.cne.api-V1.1-java.jar
 system_ext/framework/com.quicinc.cne.constants-V1.0-java.jar
