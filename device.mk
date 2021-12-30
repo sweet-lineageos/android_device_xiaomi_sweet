@@ -115,17 +115,13 @@ PRODUCT_PACKAGES += \
     DevicesOverlay \
     DevicesAndroidOverlay
 
-# Partitions 
+# Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 PRODUCT_BUILD_SUPER_PARTITION := false
 
 # Perf
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.perf@2.0
-
-# Power
-PRODUCT_PACKAGES += \
-    android.hardware.power-service.sweet
 
 # Recovery
 BOARD_INCLUDE_RECOVERY_DTBO := true
