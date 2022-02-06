@@ -18,11 +18,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 	ro.surface_flinger.max_frame_buffer_acquired_buffers=3 \
 	vendor.display.disable_metadata_dynamic_fps=1
 
-# LMKD
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.config.low_ram=false \
-    ro.lmk.log_stats=true
-
 # Audio
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.bluetooth.a2dp_offload.supported=false \
