@@ -1,4 +1,4 @@
-# All unpinned blobs are extracted from sweetin-qssi-user-11-RKQ1.200826.002-V12.0.8.0.RKFINXM-release-keys
+# All unpinned blobs are extracted from Redmi/sweet_eea/sweet:11/RKQ1.200826.002/V12.5.7.0.RKFEUXM:user/release-keys
 
 # Bluetooth (aptX)
 system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
