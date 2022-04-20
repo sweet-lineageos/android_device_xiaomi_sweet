@@ -12,7 +12,7 @@ LOCAL_MODULE_STEM := android.hardware.power-service
 LOCAL_VENDOR_MODULE := true
 
 LOCAL_SHARED_LIBRARIES := liblog libcutils libdl libxml2 libbase libhidlbase libhidltransport \
-                          libbinder_ndk libutils android.hardware.power-V1-ndk_platform
+                          libbinder_ndk libutils android.hardware.power-V1-ndk_platform vendor.xiaomi.hardware.touchfeature@1.0
 
 LOCAL_HEADER_LIBRARIES += libutils_headers libhardware_headers
 
