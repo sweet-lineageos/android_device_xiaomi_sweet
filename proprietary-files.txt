@@ -109,6 +109,7 @@ bin/charger
 
 # Power Service
 vendor/bin/hw/android.hardware.power-service:product/vendor_overlay/30/bin/hw/android.hardware.power-service|11871d150986c75dc422f278bfa1cef08313b149
+vendor/lib64/android.hardware.power-V1-ndk_platform.so:product/vendor_overlay/30/lib64/android.hardware.power-V1-ndk_platform.so|7f38d2bd12b54cfc397f48a5b4a0dbace42724dc
 
 # RIL
 system_ext/etc/permissions/qti_libpermissions.xml
