@@ -1,5 +1,8 @@
 # All unpinned blobs are extracted from Redmi/sweet_eea/sweet:12/SKQ1.210908.001/V13.0.6.0.SKFEUXM:user/release-keys
 
+# Power off Alarm
+-product/app/PowerOffAlarm/PowerOffAlarm.apk
+
 # CNE
 system_ext/framework/com.quicinc.cne.api-V1.1-java.jar
 system_ext/framework/com.quicinc.cne.constants-V1.0-java.jar
