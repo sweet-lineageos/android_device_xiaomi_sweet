@@ -339,8 +339,6 @@ vendor/etc/elliptic_sensor.xml
 vendor/etc/excluded-input-devices.xml
 vendor/etc/fs_config_dirs
 vendor/etc/fs_config_files
-vendor/etc/fstab.default
-vendor/etc/fstab.emmc
 vendor/etc/ftm_test_config
 vendor/etc/ftm_test_config_qrd
 vendor/etc/ftm_test_config_sm6150-tavil-snd-card
