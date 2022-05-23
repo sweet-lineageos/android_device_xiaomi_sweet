@@ -40,6 +40,9 @@ PRODUCT_PACKAGES += \
     libOmxG711Enc \
     libOmxQcelp13Enc
 
+# Exlude AudioFX
+TARGET_EXCLUDES_AUDIOFX := true
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2400
 TARGET_SCREEN_WIDTH := 1080
