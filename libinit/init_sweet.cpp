@@ -72,8 +72,6 @@ void vendor_load_properties() {
        !(!is_global && is_pro) ? "Redmi Note 10 Pro" : "Redmi Note 10 Pro Max";
     const std::string mod_device = is_global ? "sweet_eea_global" : "sweetin_in_global";
 
-    property_override("ro.boot.verifiedbootstate", "green");
-
     for (int i = 0; i <= 1; i++) {
         full_property_override("model", is_global ? "M2101K6G" :
             (is_pro ? "M2101K6I" : "M2101K6P"), i);
